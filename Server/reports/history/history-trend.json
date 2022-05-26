@@ -1,0 +1,25 @@
+[ {
+  "buildOrder" : 59,
+  "reportUrl" : "http://localhost:8080/job/loginTest/59/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "failed" : 0,
+    "broken" : 0,
+    "skipped" : 0,
+    "passed" : 2,
+    "unknown" : 0,
+    "total" : 2
+  }
+}, {
+  "buildOrder" : 58,
+  "reportUrl" : "http://localhost:8080/job/loginTest/58/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "failed" : 0,
+    "broken" : 0,
+    "skipped" : 0,
+    "passed" : 2,
+    "unknown" : 0,
+    "total" : 2
+  }
+} ]
