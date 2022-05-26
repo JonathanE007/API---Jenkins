@@ -7,3 +7,5 @@ class Test_hotels():
         x = requests.get(url)
         assert x.status_code == 200
         assert x.elapsed.total_seconds() < 10
+        print(x)
+

@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="718eb6dd-5805-4d0e-82ed-d43aeeabce86" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Server/test_login.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server/test_hotels.py" beforeDir="false" afterPath="$PROJECT_DIR$/Server/test_hotels.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/export/influxDbData.txt" beforeDir="false" afterPath="$PROJECT_DIR$/allure-report/export/influxDbData.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +34,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="advanced.settings" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
